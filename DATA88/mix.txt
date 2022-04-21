@@ -1,0 +1,49 @@
+Block Write
+Time:  12:24:36 - 750ms
+IC:  IC 1
+Cell Name:  2xN-1
+Param Name:  stereoDemuxSigma300ns1vol0
+Param Address:  0x0070
+Param Value:  0
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x00, 	0x00
+
+
+Block Write
+Time:  12:24:36 - 750ms
+IC:  IC 1
+Cell Name:  2xN-1
+Param Name:  stereoDemuxSigma300ns1vol1
+Param Address:  0x0071
+Param Value:  1
+Bytes:  4
+Param Data:
+0x01, 	0x00, 	0x00, 	0x00
+
+
+Block Write
+Time:  12:24:41 - 577ms
+IC:  IC 1
+Cell Name:  2xN-1
+Param Name:  stereoDemuxSigma300ns1vol0
+Param Address:  0x0070
+Param Value:  1
+Bytes:  4
+Param Data:
+0x01, 	0x00, 	0x00, 	0x00
+
+
+Block Write
+Time:  12:24:41 - 577ms
+IC:  IC 1
+Cell Name:  2xN-1
+Param Name:  stereoDemuxSigma300ns1vol1
+Param Address:  0x0071
+Param Value:  0
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x00, 	0x00
+
+
+

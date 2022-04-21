@@ -1,0 +1,19 @@
+#Begin FileDescription
+Version[0.97]
+#End FileDescription
+#Begin ComboSettings
+[Controller;RDC2_0051Rev2]
+[ComboType;0]
+[ComboSubType;2]
+[DoNotReboot;True]
+#End ComboSettings
+#Begin ComboParts
+[C:\Users\oleg.tetushkin\Documents\Streamer_ADAU1452_AD1934\ПО\Streamer_ADAU1452_ChipStudio_Pixel\Streamer_ADAU1452_Ras_44.cspro]
+[C:\Users\oleg.tetushkin\Documents\Streamer_ADAU1452_AD1934\ПО\Streamer_ADAU1452_ChipStudio_Pixel\Streamer_ADAU1452_Ras_48.cspro]
+[C:\Users\oleg.tetushkin\Documents\Streamer_ADAU1452_AD1934\ПО\Streamer_ADAU1452_ChipStudio_Pixel\Streamer_ADAU1452_Ras_96.cspro]
+[C:\Users\oleg.tetushkin\Documents\Streamer_ADAU1452_AD1934\ПО\Streamer_ADAU1452_ChipStudio_Pixel\Streamer_ADAU1452_Ras_192.cspro]
+[]
+[]
+[C:\Users\oleg.tetushkin\Documents\Streamer_ADAU1452_AD1934\ПО\Streamer_ADAU1452_ChipStudio_Pixel\Streamer_ADAU1452_Ras_88.cspro]
+[C:\Users\oleg.tetushkin\Documents\Streamer_ADAU1452_AD1934\ПО\Streamer_ADAU1452_ChipStudio_Pixel\Streamer_ADAU1452_Ras_176.cspro]
+#End ComboParts

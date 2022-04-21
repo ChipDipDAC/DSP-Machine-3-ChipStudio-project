@@ -1,0 +1,1801 @@
+Block Write
+Time:  12:42:38 - 830ms
+IC:  IC 1
+Cell Name:  SW vol_R
+Param Name:  SWGainOptADAU145XAlg2target
+Param Address:  0x006D
+Param Value:  0.0003548264503479
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x17, 	0x41
+
+
+Block Write
+Time:  12:42:38 - 830ms
+IC:  IC 1
+Cell Name:  SW vol_R
+Param Name:  SWGainOptADAU145XAlg2alpha
+Param Address:  0x006E
+Param Value:  0.995580911636353
+Bytes:  8
+Param Data:
+0x00, 	0xFE, 	0xDE, 	0x64,
+0x00, 	0x01, 	0x21, 	0x9C
+
+
+Block Write
+Time:  12:42:38 - 971ms
+IC:  IC 1
+Cell Name:  SW vol_R
+Param Name:  SWGainOptADAU145XAlg2target
+Param Address:  0x006D
+Param Value:  0.000398099422454834
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x1A, 	0x17
+
+
+Block Write
+Time:  12:42:38 - 971ms
+IC:  IC 1
+Cell Name:  SW vol_R
+Param Name:  SWGainOptADAU145XAlg2alpha
+Param Address:  0x006E
+Param Value:  0.995580911636353
+Bytes:  8
+Param Data:
+0x00, 	0xFE, 	0xDE, 	0x64,
+0x00, 	0x01, 	0x21, 	0x9C
+
+
+Block Write
+Time:  12:42:39 - 018ms
+IC:  IC 1
+Cell Name:  SW vol_R
+Param Name:  SWGainOptADAU145XAlg2target
+Param Address:  0x006D
+Param Value:  0.000446677207946777
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x1D, 	0x46
+
+
+Block Write
+Time:  12:42:39 - 018ms
+IC:  IC 1
+Cell Name:  SW vol_R
+Param Name:  SWGainOptADAU145XAlg2alpha
+Param Address:  0x006E
+Param Value:  0.995580911636353
+Bytes:  8
+Param Data:
+0x00, 	0xFE, 	0xDE, 	0x64,
+0x00, 	0x01, 	0x21, 	0x9C
+
+
+Block Write
+Time:  12:42:40 - 018ms
+IC:  IC 1
+Cell Name:  SW vol_R
+Param Name:  SWGainOptADAU145XAlg2target
+Param Address:  0x006D
+Param Value:  0.00050121545791626
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x20, 	0xD9
+
+
+Block Write
+Time:  12:42:40 - 018ms
+IC:  IC 1
+Cell Name:  SW vol_R
+Param Name:  SWGainOptADAU145XAlg2alpha
+Param Address:  0x006E
+Param Value:  0.995580911636353
+Bytes:  8
+Param Data:
+0x00, 	0xFE, 	0xDE, 	0x64,
+0x00, 	0x01, 	0x21, 	0x9C
+
+
+Block Write
+Time:  12:42:40 - 158ms
+IC:  IC 1
+Cell Name:  SW vol_R
+Param Name:  SWGainOptADAU145XAlg2target
+Param Address:  0x006D
+Param Value:  0.000562369823455811
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x24, 	0xDB
+
+
+Block Write
+Time:  12:42:40 - 175ms
+IC:  IC 1
+Cell Name:  SW vol_R
+Param Name:  SWGainOptADAU145XAlg2alpha
+Param Address:  0x006E
+Param Value:  0.995580911636353
+Bytes:  8
+Param Data:
+0x00, 	0xFE, 	0xDE, 	0x64,
+0x00, 	0x01, 	0x21, 	0x9C
+
+
+Block Write
+Time:  12:42:40 - 364ms
+IC:  IC 1
+Cell Name:  SW vol_R
+Param Name:  SWGainOptADAU145XAlg2target
+Param Address:  0x006D
+Param Value:  0.000630974769592285
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x29, 	0x5A
+
+
+Block Write
+Time:  12:42:40 - 364ms
+IC:  IC 1
+Cell Name:  SW vol_R
+Param Name:  SWGainOptADAU145XAlg2alpha
+Param Address:  0x006E
+Param Value:  0.995580911636353
+Bytes:  8
+Param Data:
+0x00, 	0xFE, 	0xDE, 	0x64,
+0x00, 	0x01, 	0x21, 	0x9C
+
+
+Block Write
+Time:  12:42:40 - 426ms
+IC:  IC 1
+Cell Name:  SW vol_R
+Param Name:  SWGainOptADAU145XAlg2target
+Param Address:  0x006D
+Param Value:  0.000707924365997314
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x2E, 	0x65
+
+
+Block Write
+Time:  12:42:40 - 442ms
+IC:  IC 1
+Cell Name:  SW vol_R
+Param Name:  SWGainOptADAU145XAlg2alpha
+Param Address:  0x006E
+Param Value:  0.995580911636353
+Bytes:  8
+Param Data:
+0x00, 	0xFE, 	0xDE, 	0x64,
+0x00, 	0x01, 	0x21, 	0x9C
+
+
+Block Write
+Time:  12:42:40 - 458ms
+IC:  IC 1
+Cell Name:  SW vol_R
+Param Name:  SWGainOptADAU145XAlg2target
+Param Address:  0x006D
+Param Value:  0.000794351100921631
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x34, 	0x0F
+
+
+Block Write
+Time:  12:42:40 - 458ms
+IC:  IC 1
+Cell Name:  SW vol_R
+Param Name:  SWGainOptADAU145XAlg2alpha
+Param Address:  0x006E
+Param Value:  0.995580911636353
+Bytes:  8
+Param Data:
+0x00, 	0xFE, 	0xDE, 	0x64,
+0x00, 	0x01, 	0x21, 	0x9C
+
+
+Block Write
+Time:  12:42:40 - 614ms
+IC:  IC 1
+Cell Name:  SW vol_R
+Param Name:  SWGainOptADAU145XAlg2target
+Param Address:  0x006D
+Param Value:  0.000891268253326416
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x3A, 	0x69
+
+
+Block Write
+Time:  12:42:40 - 614ms
+IC:  IC 1
+Cell Name:  SW vol_R
+Param Name:  SWGainOptADAU145XAlg2alpha
+Param Address:  0x006E
+Param Value:  0.995580911636353
+Bytes:  8
+Param Data:
+0x00, 	0xFE, 	0xDE, 	0x64,
+0x00, 	0x01, 	0x21, 	0x9C
+
+
+Block Write
+Time:  12:42:40 - 739ms
+IC:  IC 1
+Cell Name:  SW vol_R
+Param Name:  SWGainOptADAU145XAlg2target
+Param Address:  0x006D
+Param Value:  0.000999987125396729
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x41, 	0x89
+
+
+Block Write
+Time:  12:42:40 - 739ms
+IC:  IC 1
+Cell Name:  SW vol_R
+Param Name:  SWGainOptADAU145XAlg2alpha
+Param Address:  0x006E
+Param Value:  0.995580911636353
+Bytes:  8
+Param Data:
+0x00, 	0xFE, 	0xDE, 	0x64,
+0x00, 	0x01, 	0x21, 	0x9C
+
+
+Block Write
+Time:  12:42:40 - 770ms
+IC:  IC 1
+Cell Name:  SW vol_R
+Param Name:  SWGainOptADAU145XAlg2target
+Param Address:  0x006D
+Param Value:  0.00112199783325195
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x49, 	0x88
+
+
+Block Write
+Time:  12:42:40 - 770ms
+IC:  IC 1
+Cell Name:  SW vol_R
+Param Name:  SWGainOptADAU145XAlg2alpha
+Param Address:  0x006E
+Param Value:  0.995580911636353
+Bytes:  8
+Param Data:
+0x00, 	0xFE, 	0xDE, 	0x64,
+0x00, 	0x01, 	0x21, 	0x9C
+
+
+Block Write
+Time:  12:42:40 - 801ms
+IC:  IC 1
+Cell Name:  SW vol_R
+Param Name:  SWGainOptADAU145XAlg2target
+Param Address:  0x006D
+Param Value:  0.00125890970230103
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x52, 	0x81
+
+
+Block Write
+Time:  12:42:40 - 801ms
+IC:  IC 1
+Cell Name:  SW vol_R
+Param Name:  SWGainOptADAU145XAlg2alpha
+Param Address:  0x006E
+Param Value:  0.995580911636353
+Bytes:  8
+Param Data:
+0x00, 	0xFE, 	0xDE, 	0x64,
+0x00, 	0x01, 	0x21, 	0x9C
+
+
+Block Write
+Time:  12:42:40 - 989ms
+IC:  IC 1
+Cell Name:  SW vol_R
+Param Name:  SWGainOptADAU145XAlg2target
+Param Address:  0x006D
+Param Value:  0.00141251087188721
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x5C, 	0x92
+
+
+Block Write
+Time:  12:42:41 - 004ms
+IC:  IC 1
+Cell Name:  SW vol_R
+Param Name:  SWGainOptADAU145XAlg2alpha
+Param Address:  0x006E
+Param Value:  0.995580911636353
+Bytes:  8
+Param Data:
+0x00, 	0xFE, 	0xDE, 	0x64,
+0x00, 	0x01, 	0x21, 	0x9C
+
+
+Block Write
+Time:  12:42:41 - 067ms
+IC:  IC 1
+Cell Name:  SW vol_R
+Param Name:  SWGainOptADAU145XAlg2target
+Param Address:  0x006D
+Param Value:  0.00158488750457764
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x67, 	0xDE
+
+
+Block Write
+Time:  12:42:41 - 067ms
+IC:  IC 1
+Cell Name:  SW vol_R
+Param Name:  SWGainOptADAU145XAlg2alpha
+Param Address:  0x006E
+Param Value:  0.995580911636353
+Bytes:  8
+Param Data:
+0x00, 	0xFE, 	0xDE, 	0x64,
+0x00, 	0x01, 	0x21, 	0x9C
+
+
+Block Write
+Time:  12:42:41 - 254ms
+IC:  IC 1
+Cell Name:  SW vol_R
+Param Name:  SWGainOptADAU145XAlg2target
+Param Address:  0x006D
+Param Value:  0.00177830457687378
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x74, 	0x8B
+
+
+Block Write
+Time:  12:42:41 - 254ms
+IC:  IC 1
+Cell Name:  SW vol_R
+Param Name:  SWGainOptADAU145XAlg2alpha
+Param Address:  0x006E
+Param Value:  0.995580911636353
+Bytes:  8
+Param Data:
+0x00, 	0xFE, 	0xDE, 	0x64,
+0x00, 	0x01, 	0x21, 	0x9C
+
+
+Block Write
+Time:  12:42:41 - 317ms
+IC:  IC 1
+Cell Name:  SW vol_R
+Param Name:  SWGainOptADAU145XAlg2target
+Param Address:  0x006D
+Param Value:  0.0019952654838562
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x82, 	0xC3
+
+
+Block Write
+Time:  12:42:41 - 317ms
+IC:  IC 1
+Cell Name:  SW vol_R
+Param Name:  SWGainOptADAU145XAlg2alpha
+Param Address:  0x006E
+Param Value:  0.995580911636353
+Bytes:  8
+Param Data:
+0x00, 	0xFE, 	0xDE, 	0x64,
+0x00, 	0x01, 	0x21, 	0x9C
+
+
+Block Write
+Time:  12:42:41 - 379ms
+IC:  IC 1
+Cell Name:  SW vol_R
+Param Name:  SWGainOptADAU145XAlg2target
+Param Address:  0x006D
+Param Value:  0.00223875045776367
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x92, 	0xB8
+
+
+Block Write
+Time:  12:42:41 - 379ms
+IC:  IC 1
+Cell Name:  SW vol_R
+Param Name:  SWGainOptADAU145XAlg2alpha
+Param Address:  0x006E
+Param Value:  0.995580911636353
+Bytes:  8
+Param Data:
+0x00, 	0xFE, 	0xDE, 	0x64,
+0x00, 	0x01, 	0x21, 	0x9C
+
+
+Block Write
+Time:  12:42:41 - 426ms
+IC:  IC 1
+Cell Name:  SW vol_R
+Param Name:  SWGainOptADAU145XAlg2target
+Param Address:  0x006D
+Param Value:  0.00251185894012451
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0xA4, 	0x9E
+
+
+Block Write
+Time:  12:42:41 - 426ms
+IC:  IC 1
+Cell Name:  SW vol_R
+Param Name:  SWGainOptADAU145XAlg2alpha
+Param Address:  0x006E
+Param Value:  0.995580911636353
+Bytes:  8
+Param Data:
+0x00, 	0xFE, 	0xDE, 	0x64,
+0x00, 	0x01, 	0x21, 	0x9C
+
+
+Block Write
+Time:  12:42:41 - 582ms
+IC:  IC 1
+Cell Name:  SW vol_R
+Param Name:  SWGainOptADAU145XAlg2target
+Param Address:  0x006D
+Param Value:  0.00281840562820435
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0xB8, 	0xB5
+
+
+Block Write
+Time:  12:42:41 - 582ms
+IC:  IC 1
+Cell Name:  SW vol_R
+Param Name:  SWGainOptADAU145XAlg2alpha
+Param Address:  0x006E
+Param Value:  0.995580911636353
+Bytes:  8
+Param Data:
+0x00, 	0xFE, 	0xDE, 	0x64,
+0x00, 	0x01, 	0x21, 	0x9C
+
+
+Block Write
+Time:  12:42:41 - 707ms
+IC:  IC 1
+Cell Name:  SW vol_R
+Param Name:  SWGainOptADAU145XAlg2target
+Param Address:  0x006D
+Param Value:  0.00316226482391357
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0xCF, 	0x3E
+
+
+Block Write
+Time:  12:42:41 - 707ms
+IC:  IC 1
+Cell Name:  SW vol_R
+Param Name:  SWGainOptADAU145XAlg2alpha
+Param Address:  0x006E
+Param Value:  0.995580911636353
+Bytes:  8
+Param Data:
+0x00, 	0xFE, 	0xDE, 	0x64,
+0x00, 	0x01, 	0x21, 	0x9C
+
+
+Block Write
+Time:  12:42:41 - 754ms
+IC:  IC 1
+Cell Name:  SW vol_R
+Param Name:  SWGainOptADAU145XAlg2target
+Param Address:  0x006D
+Param Value:  0.00354814529418945
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0xE8, 	0x88
+
+
+Block Write
+Time:  12:42:41 - 754ms
+IC:  IC 1
+Cell Name:  SW vol_R
+Param Name:  SWGainOptADAU145XAlg2alpha
+Param Address:  0x006E
+Param Value:  0.995580911636353
+Bytes:  8
+Param Data:
+0x00, 	0xFE, 	0xDE, 	0x64,
+0x00, 	0x01, 	0x21, 	0x9C
+
+
+Block Write
+Time:  12:42:41 - 848ms
+IC:  IC 1
+Cell Name:  SW vol_R
+Param Name:  SWGainOptADAU145XAlg2target
+Param Address:  0x006D
+Param Value:  0.00398105382919312
+Bytes:  4
+Param Data:
+0x00, 	0x01, 	0x04, 	0xE7
+
+
+Block Write
+Time:  12:42:41 - 848ms
+IC:  IC 1
+Cell Name:  SW vol_R
+Param Name:  SWGainOptADAU145XAlg2alpha
+Param Address:  0x006E
+Param Value:  0.995580911636353
+Bytes:  8
+Param Data:
+0x00, 	0xFE, 	0xDE, 	0x64,
+0x00, 	0x01, 	0x21, 	0x9C
+
+
+Block Write
+Time:  12:42:41 - 879ms
+IC:  IC 1
+Cell Name:  SW vol_R
+Param Name:  SWGainOptADAU145XAlg2target
+Param Address:  0x006D
+Param Value:  0.00446683168411255
+Bytes:  4
+Param Data:
+0x00, 	0x01, 	0x24, 	0xBD
+
+
+Block Write
+Time:  12:42:41 - 879ms
+IC:  IC 1
+Cell Name:  SW vol_R
+Param Name:  SWGainOptADAU145XAlg2alpha
+Param Address:  0x006E
+Param Value:  0.995580911636353
+Bytes:  8
+Param Data:
+0x00, 	0xFE, 	0xDE, 	0x64,
+0x00, 	0x01, 	0x21, 	0x9C
+
+
+Block Write
+Time:  12:42:42 - 035ms
+IC:  IC 1
+Cell Name:  SW vol_R
+Param Name:  SWGainOptADAU145XAlg2target
+Param Address:  0x006D
+Param Value:  0.00501185655593872
+Bytes:  4
+Param Data:
+0x00, 	0x01, 	0x48, 	0x75
+
+
+Block Write
+Time:  12:42:42 - 035ms
+IC:  IC 1
+Cell Name:  SW vol_R
+Param Name:  SWGainOptADAU145XAlg2alpha
+Param Address:  0x006E
+Param Value:  0.995580911636353
+Bytes:  8
+Param Data:
+0x00, 	0xFE, 	0xDE, 	0x64,
+0x00, 	0x01, 	0x21, 	0x9C
+
+
+Block Write
+Time:  12:42:42 - 082ms
+IC:  IC 1
+Cell Name:  SW vol_R
+Param Name:  SWGainOptADAU145XAlg2target
+Param Address:  0x006D
+Param Value:  0.00562340021133423
+Bytes:  4
+Param Data:
+0x00, 	0x01, 	0x70, 	0x89
+
+
+Block Write
+Time:  12:42:42 - 082ms
+IC:  IC 1
+Cell Name:  SW vol_R
+Param Name:  SWGainOptADAU145XAlg2alpha
+Param Address:  0x006E
+Param Value:  0.995580911636353
+Bytes:  8
+Param Data:
+0x00, 	0xFE, 	0xDE, 	0x64,
+0x00, 	0x01, 	0x21, 	0x9C
+
+
+Block Write
+Time:  12:42:42 - 192ms
+IC:  IC 1
+Cell Name:  SW vol_R
+Param Name:  SWGainOptADAU145XAlg2target
+Param Address:  0x006D
+Param Value:  0.00630956888198853
+Bytes:  4
+Param Data:
+0x00, 	0x01, 	0x9D, 	0x81
+
+
+Block Write
+Time:  12:42:42 - 192ms
+IC:  IC 1
+Cell Name:  SW vol_R
+Param Name:  SWGainOptADAU145XAlg2alpha
+Param Address:  0x006E
+Param Value:  0.995580911636353
+Bytes:  8
+Param Data:
+0x00, 	0xFE, 	0xDE, 	0x64,
+0x00, 	0x01, 	0x21, 	0x9C
+
+
+Block Write
+Time:  12:42:42 - 254ms
+IC:  IC 1
+Cell Name:  SW vol_R
+Param Name:  SWGainOptADAU145XAlg2target
+Param Address:  0x006D
+Param Value:  0.00707948207855225
+Bytes:  4
+Param Data:
+0x00, 	0x01, 	0xCF, 	0xF6
+
+
+Block Write
+Time:  12:42:42 - 254ms
+IC:  IC 1
+Cell Name:  SW vol_R
+Param Name:  SWGainOptADAU145XAlg2alpha
+Param Address:  0x006E
+Param Value:  0.995580911636353
+Bytes:  8
+Param Data:
+0x00, 	0xFE, 	0xDE, 	0x64,
+0x00, 	0x01, 	0x21, 	0x9C
+
+
+Block Write
+Time:  12:42:42 - 426ms
+IC:  IC 1
+Cell Name:  SW vol_R
+Param Name:  SWGainOptADAU145XAlg2target
+Param Address:  0x006D
+Param Value:  0.00794327259063721
+Bytes:  4
+Param Data:
+0x00, 	0x02, 	0x08, 	0x92
+
+
+Block Write
+Time:  12:42:42 - 426ms
+IC:  IC 1
+Cell Name:  SW vol_R
+Param Name:  SWGainOptADAU145XAlg2alpha
+Param Address:  0x006E
+Param Value:  0.995580911636353
+Bytes:  8
+Param Data:
+0x00, 	0xFE, 	0xDE, 	0x64,
+0x00, 	0x01, 	0x21, 	0x9C
+
+
+Block Write
+Time:  12:42:42 - 473ms
+IC:  IC 1
+Cell Name:  SW vol_R
+Param Name:  SWGainOptADAU145XAlg2target
+Param Address:  0x006D
+Param Value:  0.00891250371932983
+Bytes:  4
+Param Data:
+0x00, 	0x02, 	0x48, 	0x17
+
+
+Block Write
+Time:  12:42:42 - 473ms
+IC:  IC 1
+Cell Name:  SW vol_R
+Param Name:  SWGainOptADAU145XAlg2alpha
+Param Address:  0x006E
+Param Value:  0.995580911636353
+Bytes:  8
+Param Data:
+0x00, 	0xFE, 	0xDE, 	0x64,
+0x00, 	0x01, 	0x21, 	0x9C
+
+
+Block Write
+Time:  12:42:42 - 582ms
+IC:  IC 1
+Cell Name:  SW vol_R
+Param Name:  SWGainOptADAU145XAlg2target
+Param Address:  0x006D
+Param Value:  0.00999999046325684
+Bytes:  4
+Param Data:
+0x00, 	0x02, 	0x8F, 	0x5C
+
+
+Block Write
+Time:  12:42:42 - 582ms
+IC:  IC 1
+Cell Name:  SW vol_R
+Param Name:  SWGainOptADAU145XAlg2alpha
+Param Address:  0x006E
+Param Value:  0.995580911636353
+Bytes:  8
+Param Data:
+0x00, 	0xFE, 	0xDE, 	0x64,
+0x00, 	0x01, 	0x21, 	0x9C
+
+
+Block Write
+Time:  12:42:42 - 801ms
+IC:  IC 1
+Cell Name:  SW vol_R
+Param Name:  SWGainOptADAU145XAlg2target
+Param Address:  0x006D
+Param Value:  0.0112201571464539
+Bytes:  4
+Param Data:
+0x00, 	0x02, 	0xDF, 	0x53
+
+
+Block Write
+Time:  12:42:42 - 801ms
+IC:  IC 1
+Cell Name:  SW vol_R
+Param Name:  SWGainOptADAU145XAlg2alpha
+Param Address:  0x006E
+Param Value:  0.995580911636353
+Bytes:  8
+Param Data:
+0x00, 	0xFE, 	0xDE, 	0x64,
+0x00, 	0x01, 	0x21, 	0x9C
+
+
+Block Write
+Time:  12:42:42 - 910ms
+IC:  IC 1
+Cell Name:  SW vol_R
+Param Name:  SWGainOptADAU145XAlg2target
+Param Address:  0x006D
+Param Value:  0.0125892758369446
+Bytes:  4
+Param Data:
+0x00, 	0x03, 	0x39, 	0x0D
+
+
+Block Write
+Time:  12:42:42 - 926ms
+IC:  IC 1
+Cell Name:  SW vol_R
+Param Name:  SWGainOptADAU145XAlg2alpha
+Param Address:  0x006E
+Param Value:  0.995580911636353
+Bytes:  8
+Param Data:
+0x00, 	0xFE, 	0xDE, 	0x64,
+0x00, 	0x01, 	0x21, 	0x9C
+
+
+Block Write
+Time:  12:42:43 - 098ms
+IC:  IC 1
+Cell Name:  SW vol_R
+Param Name:  SWGainOptADAU145XAlg2target
+Param Address:  0x006D
+Param Value:  0.0141253471374512
+Bytes:  4
+Param Data:
+0x00, 	0x03, 	0x9D, 	0xB8
+
+
+Block Write
+Time:  12:42:43 - 098ms
+IC:  IC 1
+Cell Name:  SW vol_R
+Param Name:  SWGainOptADAU145XAlg2alpha
+Param Address:  0x006E
+Param Value:  0.995580911636353
+Bytes:  8
+Param Data:
+0x00, 	0xFE, 	0xDE, 	0x64,
+0x00, 	0x01, 	0x21, 	0x9C
+
+
+Block Write
+Time:  12:42:43 - 207ms
+IC:  IC 1
+Cell Name:  SW vol_R
+Param Name:  SWGainOptADAU145XAlg2target
+Param Address:  0x006D
+Param Value:  0.0158489346504211
+Bytes:  4
+Param Data:
+0x00, 	0x04, 	0x0E, 	0xAD
+
+
+Block Write
+Time:  12:42:43 - 207ms
+IC:  IC 1
+Cell Name:  SW vol_R
+Param Name:  SWGainOptADAU145XAlg2alpha
+Param Address:  0x006E
+Param Value:  0.995580911636353
+Bytes:  8
+Param Data:
+0x00, 	0xFE, 	0xDE, 	0x64,
+0x00, 	0x01, 	0x21, 	0x9C
+
+
+Block Write
+Time:  12:42:43 - 301ms
+IC:  IC 1
+Cell Name:  SW vol_R
+Param Name:  SWGainOptADAU145XAlg2target
+Param Address:  0x006D
+Param Value:  0.0177828073501587
+Bytes:  4
+Param Data:
+0x00, 	0x04, 	0x8D, 	0x6A
+
+
+Block Write
+Time:  12:42:43 - 301ms
+IC:  IC 1
+Cell Name:  SW vol_R
+Param Name:  SWGainOptADAU145XAlg2alpha
+Param Address:  0x006E
+Param Value:  0.995580911636353
+Bytes:  8
+Param Data:
+0x00, 	0xFE, 	0xDE, 	0x64,
+0x00, 	0x01, 	0x21, 	0x9C
+
+
+Block Write
+Time:  12:42:43 - 379ms
+IC:  IC 1
+Cell Name:  SW vol_R
+Param Name:  SWGainOptADAU145XAlg2target
+Param Address:  0x006D
+Param Value:  0.0199525952339172
+Bytes:  4
+Param Data:
+0x00, 	0x05, 	0x1B, 	0x9D
+
+
+Block Write
+Time:  12:42:43 - 379ms
+IC:  IC 1
+Cell Name:  SW vol_R
+Param Name:  SWGainOptADAU145XAlg2alpha
+Param Address:  0x006E
+Param Value:  0.995580911636353
+Bytes:  8
+Param Data:
+0x00, 	0xFE, 	0xDE, 	0x64,
+0x00, 	0x01, 	0x21, 	0x9C
+
+
+Block Write
+Time:  12:42:43 - 566ms
+IC:  IC 1
+Cell Name:  SW vol_R
+Param Name:  SWGainOptADAU145XAlg2target
+Param Address:  0x006D
+Param Value:  0.0223872065544128
+Bytes:  4
+Param Data:
+0x00, 	0x05, 	0xBB, 	0x2B
+
+
+Block Write
+Time:  12:42:43 - 566ms
+IC:  IC 1
+Cell Name:  SW vol_R
+Param Name:  SWGainOptADAU145XAlg2alpha
+Param Address:  0x006E
+Param Value:  0.995580911636353
+Bytes:  8
+Param Data:
+0x00, 	0xFE, 	0xDE, 	0x64,
+0x00, 	0x01, 	0x21, 	0x9C
+
+
+Block Write
+Time:  12:42:43 - 676ms
+IC:  IC 1
+Cell Name:  SW vol_R
+Param Name:  SWGainOptADAU145XAlg2target
+Param Address:  0x006D
+Param Value:  0.025118887424469
+Bytes:  4
+Param Data:
+0x00, 	0x06, 	0x6E, 	0x31
+
+
+Block Write
+Time:  12:42:43 - 691ms
+IC:  IC 1
+Cell Name:  SW vol_R
+Param Name:  SWGainOptADAU145XAlg2alpha
+Param Address:  0x006E
+Param Value:  0.995580911636353
+Bytes:  8
+Param Data:
+0x00, 	0xFE, 	0xDE, 	0x64,
+0x00, 	0x01, 	0x21, 	0x9C
+
+
+Block Write
+Time:  12:42:43 - 832ms
+IC:  IC 1
+Cell Name:  SW vol_R
+Param Name:  SWGainOptADAU145XAlg2target
+Param Address:  0x006D
+Param Value:  0.0281838178634644
+Bytes:  4
+Param Data:
+0x00, 	0x07, 	0x37, 	0x0E
+
+
+Block Write
+Time:  12:42:43 - 847ms
+IC:  IC 1
+Cell Name:  SW vol_R
+Param Name:  SWGainOptADAU145XAlg2alpha
+Param Address:  0x006E
+Param Value:  0.995580911636353
+Bytes:  8
+Param Data:
+0x00, 	0xFE, 	0xDE, 	0x64,
+0x00, 	0x01, 	0x21, 	0x9C
+
+
+Block Write
+Time:  12:42:43 - 941ms
+IC:  IC 1
+Cell Name:  SW vol_R
+Param Name:  SWGainOptADAU145XAlg2target
+Param Address:  0x006D
+Param Value:  0.0316227674484253
+Bytes:  4
+Param Data:
+0x00, 	0x08, 	0x18, 	0x6E
+
+
+Block Write
+Time:  12:42:43 - 957ms
+IC:  IC 1
+Cell Name:  SW vol_R
+Param Name:  SWGainOptADAU145XAlg2alpha
+Param Address:  0x006E
+Param Value:  0.995580911636353
+Bytes:  8
+Param Data:
+0x00, 	0xFE, 	0xDE, 	0x64,
+0x00, 	0x01, 	0x21, 	0x9C
+
+
+Block Write
+Time:  12:42:44 - 082ms
+IC:  IC 1
+Cell Name:  SW vol_R
+Param Name:  SWGainOptADAU145XAlg2target
+Param Address:  0x006D
+Param Value:  0.035481333732605
+Bytes:  4
+Param Data:
+0x00, 	0x09, 	0x15, 	0x4E
+
+
+Block Write
+Time:  12:42:44 - 082ms
+IC:  IC 1
+Cell Name:  SW vol_R
+Param Name:  SWGainOptADAU145XAlg2alpha
+Param Address:  0x006E
+Param Value:  0.995580911636353
+Bytes:  8
+Param Data:
+0x00, 	0xFE, 	0xDE, 	0x64,
+0x00, 	0x01, 	0x21, 	0x9C
+
+
+Block Write
+Time:  12:42:44 - 113ms
+IC:  IC 1
+Cell Name:  SW vol_R
+Param Name:  SWGainOptADAU145XAlg2target
+Param Address:  0x006D
+Param Value:  0.0398107171058655
+Bytes:  4
+Param Data:
+0x00, 	0x0A, 	0x31, 	0x09
+
+
+Block Write
+Time:  12:42:44 - 113ms
+IC:  IC 1
+Cell Name:  SW vol_R
+Param Name:  SWGainOptADAU145XAlg2alpha
+Param Address:  0x006E
+Param Value:  0.995580911636353
+Bytes:  8
+Param Data:
+0x00, 	0xFE, 	0xDE, 	0x64,
+0x00, 	0x01, 	0x21, 	0x9C
+
+
+Block Write
+Time:  12:42:44 - 129ms
+IC:  IC 1
+Cell Name:  SW vol_R
+Param Name:  SWGainOptADAU145XAlg2target
+Param Address:  0x006D
+Param Value:  0.0446683764457703
+Bytes:  4
+Param Data:
+0x00, 	0x0B, 	0x6F, 	0x63
+
+
+Block Write
+Time:  12:42:44 - 129ms
+IC:  IC 1
+Cell Name:  SW vol_R
+Param Name:  SWGainOptADAU145XAlg2alpha
+Param Address:  0x006E
+Param Value:  0.995580911636353
+Bytes:  8
+Param Data:
+0x00, 	0xFE, 	0xDE, 	0x64,
+0x00, 	0x01, 	0x21, 	0x9C
+
+
+Block Write
+Time:  12:42:44 - 426ms
+IC:  IC 1
+Cell Name:  SW vol_R
+Param Name:  SWGainOptADAU145XAlg2target
+Param Address:  0x006D
+Param Value:  0.0501187443733215
+Bytes:  4
+Param Data:
+0x00, 	0x0C, 	0xD4, 	0x95
+
+
+Block Write
+Time:  12:42:44 - 426ms
+IC:  IC 1
+Cell Name:  SW vol_R
+Param Name:  SWGainOptADAU145XAlg2alpha
+Param Address:  0x006E
+Param Value:  0.995580911636353
+Bytes:  8
+Param Data:
+0x00, 	0xFE, 	0xDE, 	0x64,
+0x00, 	0x01, 	0x21, 	0x9C
+
+
+Block Write
+Time:  12:42:44 - 457ms
+IC:  IC 1
+Cell Name:  SW vol_R
+Param Name:  SWGainOptADAU145XAlg2target
+Param Address:  0x006D
+Param Value:  0.0562341213226318
+Bytes:  4
+Param Data:
+0x00, 	0x0E, 	0x65, 	0x5C
+
+
+Block Write
+Time:  12:42:44 - 457ms
+IC:  IC 1
+Cell Name:  SW vol_R
+Param Name:  SWGainOptADAU145XAlg2alpha
+Param Address:  0x006E
+Param Value:  0.995580911636353
+Bytes:  8
+Param Data:
+0x00, 	0xFE, 	0xDE, 	0x64,
+0x00, 	0x01, 	0x21, 	0x9C
+
+
+Block Write
+Time:  12:42:44 - 629ms
+IC:  IC 1
+Cell Name:  SW vol_R
+Param Name:  SWGainOptADAU145XAlg2target
+Param Address:  0x006D
+Param Value:  0.06309574842453
+Bytes:  4
+Param Data:
+0x00, 	0x10, 	0x27, 	0x0B
+
+
+Block Write
+Time:  12:42:44 - 629ms
+IC:  IC 1
+Cell Name:  SW vol_R
+Param Name:  SWGainOptADAU145XAlg2alpha
+Param Address:  0x006E
+Param Value:  0.995580911636353
+Bytes:  8
+Param Data:
+0x00, 	0xFE, 	0xDE, 	0x64,
+0x00, 	0x01, 	0x21, 	0x9C
+
+
+Block Write
+Time:  12:42:44 - 754ms
+IC:  IC 1
+Cell Name:  SW vol_R
+Param Name:  SWGainOptADAU145XAlg2target
+Param Address:  0x006D
+Param Value:  0.0707945823669434
+Bytes:  4
+Param Data:
+0x00, 	0x12, 	0x1F, 	0x98
+
+
+Block Write
+Time:  12:42:44 - 754ms
+IC:  IC 1
+Cell Name:  SW vol_R
+Param Name:  SWGainOptADAU145XAlg2alpha
+Param Address:  0x006E
+Param Value:  0.995580911636353
+Bytes:  8
+Param Data:
+0x00, 	0xFE, 	0xDE, 	0x64,
+0x00, 	0x01, 	0x21, 	0x9C
+
+
+Block Write
+Time:  12:42:44 - 894ms
+IC:  IC 1
+Cell Name:  SW vol_R
+Param Name:  SWGainOptADAU145XAlg2target
+Param Address:  0x006D
+Param Value:  0.0794328451156616
+Bytes:  4
+Param Data:
+0x00, 	0x14, 	0x55, 	0xB6
+
+
+Block Write
+Time:  12:42:44 - 894ms
+IC:  IC 1
+Cell Name:  SW vol_R
+Param Name:  SWGainOptADAU145XAlg2alpha
+Param Address:  0x006E
+Param Value:  0.995580911636353
+Bytes:  8
+Param Data:
+0x00, 	0xFE, 	0xDE, 	0x64,
+0x00, 	0x01, 	0x21, 	0x9C
+
+
+Block Write
+Time:  12:42:44 - 941ms
+IC:  IC 1
+Cell Name:  SW vol_R
+Param Name:  SWGainOptADAU145XAlg2target
+Param Address:  0x006D
+Param Value:  0.0891250967979431
+Bytes:  4
+Param Data:
+0x00, 	0x16, 	0xD0, 	0xE7
+
+
+Block Write
+Time:  12:42:44 - 941ms
+IC:  IC 1
+Cell Name:  SW vol_R
+Param Name:  SWGainOptADAU145XAlg2alpha
+Param Address:  0x006E
+Param Value:  0.995580911636353
+Bytes:  8
+Param Data:
+0x00, 	0xFE, 	0xDE, 	0x64,
+0x00, 	0x01, 	0x21, 	0x9C
+
+
+Block Write
+Time:  12:42:45 - 097ms
+IC:  IC 1
+Cell Name:  SW vol_R
+Param Name:  SWGainOptADAU145XAlg2target
+Param Address:  0x006D
+Param Value:  0.100000023841858
+Bytes:  4
+Param Data:
+0x00, 	0x19, 	0x99, 	0x9A
+
+
+Block Write
+Time:  12:42:45 - 097ms
+IC:  IC 1
+Cell Name:  SW vol_R
+Param Name:  SWGainOptADAU145XAlg2alpha
+Param Address:  0x006E
+Param Value:  0.995580911636353
+Bytes:  8
+Param Data:
+0x00, 	0xFE, 	0xDE, 	0x64,
+0x00, 	0x01, 	0x21, 	0x9C
+
+
+Block Write
+Time:  12:42:45 - 254ms
+IC:  IC 1
+Cell Name:  SW vol_R
+Param Name:  SWGainOptADAU145XAlg2target
+Param Address:  0x006D
+Param Value:  0.112201869487762
+Bytes:  4
+Param Data:
+0x00, 	0x1C, 	0xB9, 	0x43
+
+
+Block Write
+Time:  12:42:45 - 269ms
+IC:  IC 1
+Cell Name:  SW vol_R
+Param Name:  SWGainOptADAU145XAlg2alpha
+Param Address:  0x006E
+Param Value:  0.995580911636353
+Bytes:  8
+Param Data:
+0x00, 	0xFE, 	0xDE, 	0x64,
+0x00, 	0x01, 	0x21, 	0x9C
+
+
+Block Write
+Time:  12:42:45 - 347ms
+IC:  IC 1
+Cell Name:  SW vol_R
+Param Name:  SWGainOptADAU145XAlg2target
+Param Address:  0x006D
+Param Value:  0.125892519950867
+Bytes:  4
+Param Data:
+0x00, 	0x20, 	0x3A, 	0x7E
+
+
+Block Write
+Time:  12:42:45 - 347ms
+IC:  IC 1
+Cell Name:  SW vol_R
+Param Name:  SWGainOptADAU145XAlg2alpha
+Param Address:  0x006E
+Param Value:  0.995580911636353
+Bytes:  8
+Param Data:
+0x00, 	0xFE, 	0xDE, 	0x64,
+0x00, 	0x01, 	0x21, 	0x9C
+
+
+Block Write
+Time:  12:42:45 - 410ms
+IC:  IC 1
+Cell Name:  SW vol_R
+Param Name:  SWGainOptADAU145XAlg2target
+Param Address:  0x006D
+Param Value:  0.141253769397736
+Bytes:  4
+Param Data:
+0x00, 	0x24, 	0x29, 	0x35
+
+
+Block Write
+Time:  12:42:45 - 410ms
+IC:  IC 1
+Cell Name:  SW vol_R
+Param Name:  SWGainOptADAU145XAlg2alpha
+Param Address:  0x006E
+Param Value:  0.995580911636353
+Bytes:  8
+Param Data:
+0x00, 	0xFE, 	0xDE, 	0x64,
+0x00, 	0x01, 	0x21, 	0x9C
+
+
+Block Write
+Time:  12:42:45 - 535ms
+IC:  IC 1
+Cell Name:  SW vol_R
+Param Name:  SWGainOptADAU145XAlg2target
+Param Address:  0x006D
+Param Value:  0.158489346504211
+Bytes:  4
+Param Data:
+0x00, 	0x28, 	0x92, 	0xC2
+
+
+Block Write
+Time:  12:42:45 - 535ms
+IC:  IC 1
+Cell Name:  SW vol_R
+Param Name:  SWGainOptADAU145XAlg2alpha
+Param Address:  0x006E
+Param Value:  0.995580911636353
+Bytes:  8
+Param Data:
+0x00, 	0xFE, 	0xDE, 	0x64,
+0x00, 	0x01, 	0x21, 	0x9C
+
+
+Block Write
+Time:  12:42:45 - 629ms
+IC:  IC 1
+Cell Name:  SW vol_R
+Param Name:  SWGainOptADAU145XAlg2target
+Param Address:  0x006D
+Param Value:  0.177827954292297
+Bytes:  4
+Param Data:
+0x00, 	0x2D, 	0x86, 	0x22
+
+
+Block Write
+Time:  12:42:45 - 629ms
+IC:  IC 1
+Cell Name:  SW vol_R
+Param Name:  SWGainOptADAU145XAlg2alpha
+Param Address:  0x006E
+Param Value:  0.995580911636353
+Bytes:  8
+Param Data:
+0x00, 	0xFE, 	0xDE, 	0x64,
+0x00, 	0x01, 	0x21, 	0x9C
+
+
+Block Write
+Time:  12:42:45 - 691ms
+IC:  IC 1
+Cell Name:  SW vol_R
+Param Name:  SWGainOptADAU145XAlg2target
+Param Address:  0x006D
+Param Value:  0.199526250362396
+Bytes:  4
+Param Data:
+0x00, 	0x33, 	0x14, 	0x27
+
+
+Block Write
+Time:  12:42:45 - 691ms
+IC:  IC 1
+Cell Name:  SW vol_R
+Param Name:  SWGainOptADAU145XAlg2alpha
+Param Address:  0x006E
+Param Value:  0.995580911636353
+Bytes:  8
+Param Data:
+0x00, 	0xFE, 	0xDE, 	0x64,
+0x00, 	0x01, 	0x21, 	0x9C
+
+
+Block Write
+Time:  12:42:45 - 769ms
+IC:  IC 1
+Cell Name:  SW vol_R
+Param Name:  SWGainOptADAU145XAlg2target
+Param Address:  0x006D
+Param Value:  0.223872125148773
+Bytes:  4
+Param Data:
+0x00, 	0x39, 	0x4F, 	0xAF
+
+
+Block Write
+Time:  12:42:45 - 769ms
+IC:  IC 1
+Cell Name:  SW vol_R
+Param Name:  SWGainOptADAU145XAlg2alpha
+Param Address:  0x006E
+Param Value:  0.995580911636353
+Bytes:  8
+Param Data:
+0x00, 	0xFE, 	0xDE, 	0x64,
+0x00, 	0x01, 	0x21, 	0x9C
+
+
+Block Write
+Time:  12:42:45 - 816ms
+IC:  IC 1
+Cell Name:  SW vol_R
+Param Name:  SWGainOptADAU145XAlg2target
+Param Address:  0x006D
+Param Value:  0.251188635826111
+Bytes:  4
+Param Data:
+0x00, 	0x40, 	0x4D, 	0xE6
+
+
+Block Write
+Time:  12:42:45 - 816ms
+IC:  IC 1
+Cell Name:  SW vol_R
+Param Name:  SWGainOptADAU145XAlg2alpha
+Param Address:  0x006E
+Param Value:  0.995580911636353
+Bytes:  8
+Param Data:
+0x00, 	0xFE, 	0xDE, 	0x64,
+0x00, 	0x01, 	0x21, 	0x9C
+
+
+Block Write
+Time:  12:42:45 - 847ms
+IC:  IC 1
+Cell Name:  SW vol_R
+Param Name:  SWGainOptADAU145XAlg2target
+Param Address:  0x006D
+Param Value:  0.281838297843933
+Bytes:  4
+Param Data:
+0x00, 	0x48, 	0x26, 	0x8E
+
+
+Block Write
+Time:  12:42:45 - 847ms
+IC:  IC 1
+Cell Name:  SW vol_R
+Param Name:  SWGainOptADAU145XAlg2alpha
+Param Address:  0x006E
+Param Value:  0.995580911636353
+Bytes:  8
+Param Data:
+0x00, 	0xFE, 	0xDE, 	0x64,
+0x00, 	0x01, 	0x21, 	0x9C
+
+
+Block Write
+Time:  12:42:45 - 894ms
+IC:  IC 1
+Cell Name:  SW vol_R
+Param Name:  SWGainOptADAU145XAlg2target
+Param Address:  0x006D
+Param Value:  0.316227793693542
+Bytes:  4
+Param Data:
+0x00, 	0x50, 	0xF4, 	0x4E
+
+
+Block Write
+Time:  12:42:45 - 894ms
+IC:  IC 1
+Cell Name:  SW vol_R
+Param Name:  SWGainOptADAU145XAlg2alpha
+Param Address:  0x006E
+Param Value:  0.995580911636353
+Bytes:  8
+Param Data:
+0x00, 	0xFE, 	0xDE, 	0x64,
+0x00, 	0x01, 	0x21, 	0x9C
+
+
+Block Write
+Time:  12:42:46 - 066ms
+IC:  IC 1
+Cell Name:  SW vol_R
+Param Name:  SWGainOptADAU145XAlg2target
+Param Address:  0x006D
+Param Value:  0.354813396930695
+Bytes:  4
+Param Data:
+0x00, 	0x5A, 	0xD5, 	0x0D
+
+
+Block Write
+Time:  12:42:46 - 066ms
+IC:  IC 1
+Cell Name:  SW vol_R
+Param Name:  SWGainOptADAU145XAlg2alpha
+Param Address:  0x006E
+Param Value:  0.995580911636353
+Bytes:  8
+Param Data:
+0x00, 	0xFE, 	0xDE, 	0x64,
+0x00, 	0x01, 	0x21, 	0x9C
+
+
+Block Write
+Time:  12:42:46 - 144ms
+IC:  IC 1
+Cell Name:  SW vol_R
+Param Name:  SWGainOptADAU145XAlg2target
+Param Address:  0x006D
+Param Value:  0.398107171058655
+Bytes:  4
+Param Data:
+0x00, 	0x65, 	0xEA, 	0x5A
+
+
+Block Write
+Time:  12:42:46 - 144ms
+IC:  IC 1
+Cell Name:  SW vol_R
+Param Name:  SWGainOptADAU145XAlg2alpha
+Param Address:  0x006E
+Param Value:  0.995580911636353
+Bytes:  8
+Param Data:
+0x00, 	0xFE, 	0xDE, 	0x64,
+0x00, 	0x01, 	0x21, 	0x9C
+
+
+Block Write
+Time:  12:42:46 - 285ms
+IC:  IC 1
+Cell Name:  SW vol_R
+Param Name:  SWGainOptADAU145XAlg2target
+Param Address:  0x006D
+Param Value:  0.446683585643768
+Bytes:  4
+Param Data:
+0x00, 	0x72, 	0x59, 	0xDB
+
+
+Block Write
+Time:  12:42:46 - 285ms
+IC:  IC 1
+Cell Name:  SW vol_R
+Param Name:  SWGainOptADAU145XAlg2alpha
+Param Address:  0x006E
+Param Value:  0.995580911636353
+Bytes:  8
+Param Data:
+0x00, 	0xFE, 	0xDE, 	0x64,
+0x00, 	0x01, 	0x21, 	0x9C
+
+
+Block Write
+Time:  12:42:46 - 410ms
+IC:  IC 1
+Cell Name:  SW vol_R
+Param Name:  SWGainOptADAU145XAlg2target
+Param Address:  0x006D
+Param Value:  0.501187205314636
+Bytes:  4
+Param Data:
+0x00, 	0x80, 	0x4D, 	0xCE
+
+
+Block Write
+Time:  12:42:46 - 410ms
+IC:  IC 1
+Cell Name:  SW vol_R
+Param Name:  SWGainOptADAU145XAlg2alpha
+Param Address:  0x006E
+Param Value:  0.995580911636353
+Bytes:  8
+Param Data:
+0x00, 	0xFE, 	0xDE, 	0x64,
+0x00, 	0x01, 	0x21, 	0x9C
+
+
+Block Write
+Time:  12:42:46 - 535ms
+IC:  IC 1
+Cell Name:  SW vol_R
+Param Name:  SWGainOptADAU145XAlg2target
+Param Address:  0x006D
+Param Value:  0.562341332435608
+Bytes:  4
+Param Data:
+0x00, 	0x8F, 	0xF5, 	0x9A
+
+
+Block Write
+Time:  12:42:46 - 535ms
+IC:  IC 1
+Cell Name:  SW vol_R
+Param Name:  SWGainOptADAU145XAlg2alpha
+Param Address:  0x006E
+Param Value:  0.995580911636353
+Bytes:  8
+Param Data:
+0x00, 	0xFE, 	0xDE, 	0x64,
+0x00, 	0x01, 	0x21, 	0x9C
+
+
+Block Write
+Time:  12:42:46 - 566ms
+IC:  IC 1
+Cell Name:  SW vol_R
+Param Name:  SWGainOptADAU145XAlg2target
+Param Address:  0x006D
+Param Value:  0.630957365036011
+Bytes:  4
+Param Data:
+0x00, 	0xA1, 	0x86, 	0x6C
+
+
+Block Write
+Time:  12:42:46 - 566ms
+IC:  IC 1
+Cell Name:  SW vol_R
+Param Name:  SWGainOptADAU145XAlg2alpha
+Param Address:  0x006E
+Param Value:  0.995580911636353
+Bytes:  8
+Param Data:
+0x00, 	0xFE, 	0xDE, 	0x64,
+0x00, 	0x01, 	0x21, 	0x9C
+
+
+Block Write
+Time:  12:42:46 - 738ms
+IC:  IC 1
+Cell Name:  SW vol_R
+Param Name:  SWGainOptADAU145XAlg2target
+Param Address:  0x006D
+Param Value:  0.707945764064789
+Bytes:  4
+Param Data:
+0x00, 	0xB5, 	0x3B, 	0xEF
+
+
+Block Write
+Time:  12:42:46 - 738ms
+IC:  IC 1
+Cell Name:  SW vol_R
+Param Name:  SWGainOptADAU145XAlg2alpha
+Param Address:  0x006E
+Param Value:  0.995580911636353
+Bytes:  8
+Param Data:
+0x00, 	0xFE, 	0xDE, 	0x64,
+0x00, 	0x01, 	0x21, 	0x9C
+
+
+Block Write
+Time:  12:42:47 - 081ms
+IC:  IC 1
+Cell Name:  SW vol_R
+Param Name:  SWGainOptADAU145XAlg2target
+Param Address:  0x006D
+Param Value:  0.794328212738037
+Bytes:  4
+Param Data:
+0x00, 	0xCB, 	0x59, 	0x18
+
+
+Block Write
+Time:  12:42:47 - 081ms
+IC:  IC 1
+Cell Name:  SW vol_R
+Param Name:  SWGainOptADAU145XAlg2alpha
+Param Address:  0x006E
+Param Value:  0.995580911636353
+Bytes:  8
+Param Data:
+0x00, 	0xFE, 	0xDE, 	0x64,
+0x00, 	0x01, 	0x21, 	0x9C
+
+
+Block Write
+Time:  12:42:47 - 191ms
+IC:  IC 1
+Cell Name:  SW vol_R
+Param Name:  SWGainOptADAU145XAlg2target
+Param Address:  0x006D
+Param Value:  0.891250908374786
+Bytes:  4
+Param Data:
+0x00, 	0xE4, 	0x29, 	0x05
+
+
+Block Write
+Time:  12:42:47 - 191ms
+IC:  IC 1
+Cell Name:  SW vol_R
+Param Name:  SWGainOptADAU145XAlg2alpha
+Param Address:  0x006E
+Param Value:  0.995580911636353
+Bytes:  8
+Param Data:
+0x00, 	0xFE, 	0xDE, 	0x64,
+0x00, 	0x01, 	0x21, 	0x9C
+
+
+Block Write
+Time:  12:42:47 - 347ms
+IC:  IC 1
+Cell Name:  SW vol_R
+Param Name:  SWGainOptADAU145XAlg2target
+Param Address:  0x006D
+Param Value:  1
+Bytes:  4
+Param Data:
+0x01, 	0x00, 	0x00, 	0x00
+
+
+Block Write
+Time:  12:42:47 - 347ms
+IC:  IC 1
+Cell Name:  SW vol_R
+Param Name:  SWGainOptADAU145XAlg2alpha
+Param Address:  0x006E
+Param Value:  0.995580911636353
+Bytes:  8
+Param Data:
+0x00, 	0xFE, 	0xDE, 	0x64,
+0x00, 	0x01, 	0x21, 	0x9C
+
+
+Block Write
+Time:  12:42:47 - 363ms
+IC:  IC 1
+Cell Name:  SW vol_R
+Param Name:  SWGainOptADAU145XAlg2target
+Param Address:  0x006D
+Param Value:  1.12201845645905
+Bytes:  4
+Param Data:
+0x01, 	0x1F, 	0x3C, 	0x9A
+
+
+Block Write
+Time:  12:42:47 - 363ms
+IC:  IC 1
+Cell Name:  SW vol_R
+Param Name:  SWGainOptADAU145XAlg2alpha
+Param Address:  0x006E
+Param Value:  0.995580911636353
+Bytes:  8
+Param Data:
+0x00, 	0xFE, 	0xDE, 	0x64,
+0x00, 	0x01, 	0x21, 	0x9C
+
+
+Block Write
+Time:  12:42:47 - 550ms
+IC:  IC 1
+Cell Name:  SW vol_R
+Param Name:  SWGainOptADAU145XAlg2target
+Param Address:  0x006D
+Param Value:  1.25892543792725
+Bytes:  4
+Param Data:
+0x01, 	0x42, 	0x48, 	0xF0
+
+
+Block Write
+Time:  12:42:47 - 550ms
+IC:  IC 1
+Cell Name:  SW vol_R
+Param Name:  SWGainOptADAU145XAlg2alpha
+Param Address:  0x006E
+Param Value:  0.995580911636353
+Bytes:  8
+Param Data:
+0x00, 	0xFE, 	0xDE, 	0x64,
+0x00, 	0x01, 	0x21, 	0x9C
+
+
+

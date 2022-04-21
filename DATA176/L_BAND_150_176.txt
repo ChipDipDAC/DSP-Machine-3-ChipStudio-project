@@ -1,0 +1,1441 @@
+Safeload Write
+Time:  16:09:45 - 950ms
+IC:  IC 1
+Cell Name:  LB Filter L
+Param Name:  EQFilterSPS300Alg4B2_1
+Param Address:  0x001D
+Param Value:  0.992219567298889
+Bytes:  4
+Param Data:
+0x00, 	0xFE, 	0x02, 	0x1A
+
+
+Safeload Write
+Time:  16:09:45 - 950ms
+IC:  IC 1
+Cell Name:  LB Filter L
+Param Name:  EQFilterSPS300Alg4B1_1
+Param Address:  0x001E
+Param Value:  -1.99022537469864
+Bytes:  4
+Param Data:
+0xFE, 	0x02, 	0x80, 	0x97
+
+
+Safeload Write
+Time:  16:09:45 - 950ms
+IC:  IC 1
+Cell Name:  LB Filter L
+Param Name:  EQFilterSPS300Alg4B0_1
+Param Address:  0x001F
+Param Value:  0.998022735118866
+Bytes:  4
+Param Data:
+0x00, 	0xFF, 	0x7E, 	0x6B
+
+
+Safeload Write
+Time:  16:09:45 - 950ms
+IC:  IC 1
+Cell Name:  LB Filter L
+Param Name:  EQFilterSPS300Alg4A2_1
+Param Address:  0x0020
+Param Value:  -0.990257680416107
+Bytes:  4
+Param Data:
+0xFF, 	0x02, 	0x7E, 	0x79
+
+
+Safeload Write
+Time:  16:09:45 - 950ms
+IC:  IC 1
+Cell Name:  LB Filter L
+Param Name:  EQFilterSPS300Alg4A1_1
+Param Address:  0x0021
+Param Value:  1.99020999670029
+Bytes:  4
+Param Data:
+0x01, 	0xFD, 	0x7E, 	0x67
+
+
+Safeload Write
+Time:  16:09:45 - 950ms
+IC:  IC 1
+Cell Name:  LB Filter L
+Param Name:  EQFilterSPS300Alg4B2_1
+Param Address:  0x001D
+Param Value:  0.992219567298889
+Bytes:  4
+Param Data:
+0x00, 	0xFE, 	0x02, 	0x1A
+
+
+Safeload Write
+Time:  16:09:45 - 950ms
+IC:  IC 1
+Cell Name:  LB Filter L
+Param Name:  EQFilterSPS300Alg4B1_1
+Param Address:  0x001E
+Param Value:  -1.99022537469864
+Bytes:  4
+Param Data:
+0xFE, 	0x02, 	0x80, 	0x97
+
+
+Safeload Write
+Time:  16:09:45 - 950ms
+IC:  IC 1
+Cell Name:  LB Filter L
+Param Name:  EQFilterSPS300Alg4B0_1
+Param Address:  0x001F
+Param Value:  0.998022735118866
+Bytes:  4
+Param Data:
+0x00, 	0xFF, 	0x7E, 	0x6B
+
+
+Safeload Write
+Time:  16:09:45 - 950ms
+IC:  IC 1
+Cell Name:  LB Filter L
+Param Name:  EQFilterSPS300Alg4A2_1
+Param Address:  0x0020
+Param Value:  -0.990257680416107
+Bytes:  4
+Param Data:
+0xFF, 	0x02, 	0x7E, 	0x79
+
+
+Safeload Write
+Time:  16:09:45 - 956ms
+IC:  IC 1
+Cell Name:  LB Filter L
+Param Name:  EQFilterSPS300Alg4A1_1
+Param Address:  0x0021
+Param Value:  1.99020999670029
+Bytes:  4
+Param Data:
+0x01, 	0xFD, 	0x7E, 	0x67
+
+
+Safeload Write
+Time:  16:09:48 - 411ms
+IC:  IC 1
+Cell Name:  LB Filter L
+Param Name:  EQFilterSPS300Alg4B2_1
+Param Address:  0x001D
+Param Value:  0.992272913455963
+Bytes:  4
+Param Data:
+0x00, 	0xFE, 	0x05, 	0x99
+
+
+Safeload Write
+Time:  16:09:48 - 411ms
+IC:  IC 1
+Cell Name:  LB Filter L
+Param Name:  EQFilterSPS300Alg4B1_1
+Param Address:  0x001E
+Param Value:  -1.9905012845993
+Bytes:  4
+Param Data:
+0xFE, 	0x02, 	0x6E, 	0x82
+
+
+Safeload Write
+Time:  16:09:48 - 411ms
+IC:  IC 1
+Cell Name:  LB Filter L
+Param Name:  EQFilterSPS300Alg4B0_1
+Param Address:  0x001F
+Param Value:  0.998246312141418
+Bytes:  4
+Param Data:
+0x00, 	0xFF, 	0x8D, 	0x12
+
+
+Safeload Write
+Time:  16:09:48 - 411ms
+IC:  IC 1
+Cell Name:  LB Filter L
+Param Name:  EQFilterSPS300Alg4A2_1
+Param Address:  0x0020
+Param Value:  -0.990532755851746
+Bytes:  4
+Param Data:
+0xFF, 	0x02, 	0x6C, 	0x72
+
+
+Safeload Write
+Time:  16:09:48 - 411ms
+IC:  IC 1
+Cell Name:  LB Filter L
+Param Name:  EQFilterSPS300Alg4A1_1
+Param Address:  0x0021
+Param Value:  1.99048775434494
+Bytes:  4
+Param Data:
+0x01, 	0xFD, 	0x90, 	0x9B
+
+
+Safeload Write
+Time:  16:09:48 - 411ms
+IC:  IC 1
+Cell Name:  LB Filter L
+Param Name:  EQFilterSPS300Alg4B2_1
+Param Address:  0x001D
+Param Value:  0.992272913455963
+Bytes:  4
+Param Data:
+0x00, 	0xFE, 	0x05, 	0x99
+
+
+Safeload Write
+Time:  16:09:48 - 411ms
+IC:  IC 1
+Cell Name:  LB Filter L
+Param Name:  EQFilterSPS300Alg4B1_1
+Param Address:  0x001E
+Param Value:  -1.9905012845993
+Bytes:  4
+Param Data:
+0xFE, 	0x02, 	0x6E, 	0x82
+
+
+Safeload Write
+Time:  16:09:48 - 411ms
+IC:  IC 1
+Cell Name:  LB Filter L
+Param Name:  EQFilterSPS300Alg4B0_1
+Param Address:  0x001F
+Param Value:  0.998246312141418
+Bytes:  4
+Param Data:
+0x00, 	0xFF, 	0x8D, 	0x12
+
+
+Safeload Write
+Time:  16:09:48 - 411ms
+IC:  IC 1
+Cell Name:  LB Filter L
+Param Name:  EQFilterSPS300Alg4A2_1
+Param Address:  0x0020
+Param Value:  -0.990532755851746
+Bytes:  4
+Param Data:
+0xFF, 	0x02, 	0x6C, 	0x72
+
+
+Safeload Write
+Time:  16:09:48 - 411ms
+IC:  IC 1
+Cell Name:  LB Filter L
+Param Name:  EQFilterSPS300Alg4A1_1
+Param Address:  0x0021
+Param Value:  1.99048775434494
+Bytes:  4
+Param Data:
+0x01, 	0xFD, 	0x90, 	0x9B
+
+
+Safeload Write
+Time:  16:09:49 - 067ms
+IC:  IC 1
+Cell Name:  LB Filter L
+Param Name:  EQFilterSPS300Alg4B2_1
+Param Address:  0x001D
+Param Value:  0.992319822311401
+Bytes:  4
+Param Data:
+0x00, 	0xFE, 	0x08, 	0xAC
+
+
+Safeload Write
+Time:  16:09:49 - 067ms
+IC:  IC 1
+Cell Name:  LB Filter L
+Param Name:  EQFilterSPS300Alg4B1_1
+Param Address:  0x001E
+Param Value:  -1.9907693862915
+Bytes:  4
+Param Data:
+0xFE, 	0x02, 	0x5C, 	0xF0
+
+
+Safeload Write
+Time:  16:09:49 - 067ms
+IC:  IC 1
+Cell Name:  LB Filter L
+Param Name:  EQFilterSPS300Alg4B0_1
+Param Address:  0x001F
+Param Value:  0.998468518257141
+Bytes:  4
+Param Data:
+0x00, 	0xFF, 	0x9B, 	0xA2
+
+
+Safeload Write
+Time:  16:09:49 - 067ms
+IC:  IC 1
+Cell Name:  LB Filter L
+Param Name:  EQFilterSPS300Alg4A2_1
+Param Address:  0x0020
+Param Value:  -0.990800142288208
+Bytes:  4
+Param Data:
+0xFF, 	0x02, 	0x5A, 	0xEC
+
+
+Safeload Write
+Time:  16:09:49 - 067ms
+IC:  IC 1
+Cell Name:  LB Filter L
+Param Name:  EQFilterSPS300Alg4A1_1
+Param Address:  0x0021
+Param Value:  1.99075764417648
+Bytes:  4
+Param Data:
+0x01, 	0xFD, 	0xA2, 	0x4B
+
+
+Safeload Write
+Time:  16:09:49 - 067ms
+IC:  IC 1
+Cell Name:  LB Filter L
+Param Name:  EQFilterSPS300Alg4B2_1
+Param Address:  0x001D
+Param Value:  0.992319822311401
+Bytes:  4
+Param Data:
+0x00, 	0xFE, 	0x08, 	0xAC
+
+
+Safeload Write
+Time:  16:09:49 - 067ms
+IC:  IC 1
+Cell Name:  LB Filter L
+Param Name:  EQFilterSPS300Alg4B1_1
+Param Address:  0x001E
+Param Value:  -1.9907693862915
+Bytes:  4
+Param Data:
+0xFE, 	0x02, 	0x5C, 	0xF0
+
+
+Safeload Write
+Time:  16:09:49 - 067ms
+IC:  IC 1
+Cell Name:  LB Filter L
+Param Name:  EQFilterSPS300Alg4B0_1
+Param Address:  0x001F
+Param Value:  0.998468518257141
+Bytes:  4
+Param Data:
+0x00, 	0xFF, 	0x9B, 	0xA2
+
+
+Safeload Write
+Time:  16:09:49 - 067ms
+IC:  IC 1
+Cell Name:  LB Filter L
+Param Name:  EQFilterSPS300Alg4A2_1
+Param Address:  0x0020
+Param Value:  -0.990800142288208
+Bytes:  4
+Param Data:
+0xFF, 	0x02, 	0x5A, 	0xEC
+
+
+Safeload Write
+Time:  16:09:49 - 067ms
+IC:  IC 1
+Cell Name:  LB Filter L
+Param Name:  EQFilterSPS300Alg4A1_1
+Param Address:  0x0021
+Param Value:  1.99075764417648
+Bytes:  4
+Param Data:
+0x01, 	0xFD, 	0xA2, 	0x4B
+
+
+Safeload Write
+Time:  16:09:49 - 552ms
+IC:  IC 1
+Cell Name:  LB Filter L
+Param Name:  EQFilterSPS300Alg4B2_1
+Param Address:  0x001D
+Param Value:  0.992360472679138
+Bytes:  4
+Param Data:
+0x00, 	0xFE, 	0x0B, 	0x56
+
+
+Safeload Write
+Time:  16:09:49 - 552ms
+IC:  IC 1
+Cell Name:  LB Filter L
+Param Name:  EQFilterSPS300Alg4B1_1
+Param Address:  0x001E
+Param Value:  -1.99102985858917
+Bytes:  4
+Param Data:
+0xFE, 	0x02, 	0x4B, 	0xDE
+
+
+Safeload Write
+Time:  16:09:49 - 552ms
+IC:  IC 1
+Cell Name:  LB Filter L
+Param Name:  EQFilterSPS300Alg4B0_1
+Param Address:  0x001F
+Param Value:  0.998689532279968
+Bytes:  4
+Param Data:
+0x00, 	0xFF, 	0xAA, 	0x1E
+
+
+Safeload Write
+Time:  16:09:49 - 552ms
+IC:  IC 1
+Cell Name:  LB Filter L
+Param Name:  EQFilterSPS300Alg4A2_1
+Param Address:  0x0020
+Param Value:  -0.991059958934784
+Bytes:  4
+Param Data:
+0xFF, 	0x02, 	0x49, 	0xE5
+
+
+Safeload Write
+Time:  16:09:49 - 552ms
+IC:  IC 1
+Cell Name:  LB Filter L
+Param Name:  EQFilterSPS300Alg4A1_1
+Param Address:  0x0021
+Param Value:  1.99101984500885
+Bytes:  4
+Param Data:
+0x01, 	0xFD, 	0xB3, 	0x7A
+
+
+Safeload Write
+Time:  16:09:49 - 552ms
+IC:  IC 1
+Cell Name:  LB Filter L
+Param Name:  EQFilterSPS300Alg4B2_1
+Param Address:  0x001D
+Param Value:  0.992360472679138
+Bytes:  4
+Param Data:
+0x00, 	0xFE, 	0x0B, 	0x56
+
+
+Safeload Write
+Time:  16:09:49 - 552ms
+IC:  IC 1
+Cell Name:  LB Filter L
+Param Name:  EQFilterSPS300Alg4B1_1
+Param Address:  0x001E
+Param Value:  -1.99102985858917
+Bytes:  4
+Param Data:
+0xFE, 	0x02, 	0x4B, 	0xDE
+
+
+Safeload Write
+Time:  16:09:49 - 567ms
+IC:  IC 1
+Cell Name:  LB Filter L
+Param Name:  EQFilterSPS300Alg4B0_1
+Param Address:  0x001F
+Param Value:  0.998689532279968
+Bytes:  4
+Param Data:
+0x00, 	0xFF, 	0xAA, 	0x1E
+
+
+Safeload Write
+Time:  16:09:49 - 567ms
+IC:  IC 1
+Cell Name:  LB Filter L
+Param Name:  EQFilterSPS300Alg4A2_1
+Param Address:  0x0020
+Param Value:  -0.991059958934784
+Bytes:  4
+Param Data:
+0xFF, 	0x02, 	0x49, 	0xE5
+
+
+Safeload Write
+Time:  16:09:49 - 567ms
+IC:  IC 1
+Cell Name:  LB Filter L
+Param Name:  EQFilterSPS300Alg4A1_1
+Param Address:  0x0021
+Param Value:  1.99101984500885
+Bytes:  4
+Param Data:
+0x01, 	0xFD, 	0xB3, 	0x7A
+
+
+Safeload Write
+Time:  16:09:50 - 333ms
+IC:  IC 1
+Cell Name:  LB Filter L
+Param Name:  EQFilterSPS300Alg4B2_1
+Param Address:  0x001D
+Param Value:  0.992394745349884
+Bytes:  4
+Param Data:
+0x00, 	0xFE, 	0x0D, 	0x95
+
+
+Safeload Write
+Time:  16:09:50 - 333ms
+IC:  IC 1
+Cell Name:  LB Filter L
+Param Name:  EQFilterSPS300Alg4B1_1
+Param Address:  0x001E
+Param Value:  -1.99128293991089
+Bytes:  4
+Param Data:
+0xFE, 	0x02, 	0x3B, 	0x48
+
+
+Safeload Write
+Time:  16:09:50 - 333ms
+IC:  IC 1
+Cell Name:  LB Filter L
+Param Name:  EQFilterSPS300Alg4B0_1
+Param Address:  0x001F
+Param Value:  0.998909473419189
+Bytes:  4
+Param Data:
+0x00, 	0xFF, 	0xB8, 	0x88
+
+
+Safeload Write
+Time:  16:09:50 - 333ms
+IC:  IC 1
+Cell Name:  LB Filter L
+Param Name:  EQFilterSPS300Alg4A2_1
+Param Address:  0x0020
+Param Value:  -0.991312503814697
+Bytes:  4
+Param Data:
+0xFF, 	0x02, 	0x39, 	0x58
+
+
+Safeload Write
+Time:  16:09:50 - 333ms
+IC:  IC 1
+Cell Name:  LB Filter L
+Param Name:  EQFilterSPS300Alg4A1_1
+Param Address:  0x0021
+Param Value:  1.99127459526062
+Bytes:  4
+Param Data:
+0x01, 	0xFD, 	0xC4, 	0x2C
+
+
+Safeload Write
+Time:  16:09:50 - 333ms
+IC:  IC 1
+Cell Name:  LB Filter L
+Param Name:  EQFilterSPS300Alg4B2_1
+Param Address:  0x001D
+Param Value:  0.992394745349884
+Bytes:  4
+Param Data:
+0x00, 	0xFE, 	0x0D, 	0x95
+
+
+Safeload Write
+Time:  16:09:50 - 333ms
+IC:  IC 1
+Cell Name:  LB Filter L
+Param Name:  EQFilterSPS300Alg4B1_1
+Param Address:  0x001E
+Param Value:  -1.99128293991089
+Bytes:  4
+Param Data:
+0xFE, 	0x02, 	0x3B, 	0x48
+
+
+Safeload Write
+Time:  16:09:50 - 333ms
+IC:  IC 1
+Cell Name:  LB Filter L
+Param Name:  EQFilterSPS300Alg4B0_1
+Param Address:  0x001F
+Param Value:  0.998909473419189
+Bytes:  4
+Param Data:
+0x00, 	0xFF, 	0xB8, 	0x88
+
+
+Safeload Write
+Time:  16:09:50 - 333ms
+IC:  IC 1
+Cell Name:  LB Filter L
+Param Name:  EQFilterSPS300Alg4A2_1
+Param Address:  0x0020
+Param Value:  -0.991312503814697
+Bytes:  4
+Param Data:
+0xFF, 	0x02, 	0x39, 	0x58
+
+
+Safeload Write
+Time:  16:09:50 - 333ms
+IC:  IC 1
+Cell Name:  LB Filter L
+Param Name:  EQFilterSPS300Alg4A1_1
+Param Address:  0x0021
+Param Value:  1.99127459526062
+Bytes:  4
+Param Data:
+0x01, 	0xFD, 	0xC4, 	0x2C
+
+
+Safeload Write
+Time:  16:09:50 - 958ms
+IC:  IC 1
+Cell Name:  LB Filter L
+Param Name:  EQFilterSPS300Alg4B2_1
+Param Address:  0x001D
+Param Value:  0.992422819137573
+Bytes:  4
+Param Data:
+0x00, 	0xFE, 	0x0F, 	0x6C
+
+
+Safeload Write
+Time:  16:09:50 - 958ms
+IC:  IC 1
+Cell Name:  LB Filter L
+Param Name:  EQFilterSPS300Alg4B1_1
+Param Address:  0x001E
+Param Value:  -1.99152874946594
+Bytes:  4
+Param Data:
+0xFE, 	0x02, 	0x2B, 	0x2C
+
+
+Safeload Write
+Time:  16:09:50 - 958ms
+IC:  IC 1
+Cell Name:  LB Filter L
+Param Name:  EQFilterSPS300Alg4B0_1
+Param Address:  0x001F
+Param Value:  0.999128580093384
+Bytes:  4
+Param Data:
+0x00, 	0xFF, 	0xC6, 	0xE4
+
+
+Safeload Write
+Time:  16:09:50 - 958ms
+IC:  IC 1
+Cell Name:  LB Filter L
+Param Name:  EQFilterSPS300Alg4A2_1
+Param Address:  0x0020
+Param Value:  -0.991557955741882
+Bytes:  4
+Param Data:
+0xFF, 	0x02, 	0x29, 	0x42
+
+
+Safeload Write
+Time:  16:09:50 - 958ms
+IC:  IC 1
+Cell Name:  LB Filter L
+Param Name:  EQFilterSPS300Alg4A1_1
+Param Address:  0x0021
+Param Value:  1.99152219295502
+Bytes:  4
+Param Data:
+0x01, 	0xFD, 	0xD4, 	0x66
+
+
+Safeload Write
+Time:  16:09:50 - 958ms
+IC:  IC 1
+Cell Name:  LB Filter L
+Param Name:  EQFilterSPS300Alg4B2_1
+Param Address:  0x001D
+Param Value:  0.992422819137573
+Bytes:  4
+Param Data:
+0x00, 	0xFE, 	0x0F, 	0x6C
+
+
+Safeload Write
+Time:  16:09:50 - 958ms
+IC:  IC 1
+Cell Name:  LB Filter L
+Param Name:  EQFilterSPS300Alg4B1_1
+Param Address:  0x001E
+Param Value:  -1.99152874946594
+Bytes:  4
+Param Data:
+0xFE, 	0x02, 	0x2B, 	0x2C
+
+
+Safeload Write
+Time:  16:09:50 - 958ms
+IC:  IC 1
+Cell Name:  LB Filter L
+Param Name:  EQFilterSPS300Alg4B0_1
+Param Address:  0x001F
+Param Value:  0.999128580093384
+Bytes:  4
+Param Data:
+0x00, 	0xFF, 	0xC6, 	0xE4
+
+
+Safeload Write
+Time:  16:09:50 - 958ms
+IC:  IC 1
+Cell Name:  LB Filter L
+Param Name:  EQFilterSPS300Alg4A2_1
+Param Address:  0x0020
+Param Value:  -0.991557955741882
+Bytes:  4
+Param Data:
+0xFF, 	0x02, 	0x29, 	0x42
+
+
+Safeload Write
+Time:  16:09:50 - 958ms
+IC:  IC 1
+Cell Name:  LB Filter L
+Param Name:  EQFilterSPS300Alg4A1_1
+Param Address:  0x0021
+Param Value:  1.99152219295502
+Bytes:  4
+Param Data:
+0x01, 	0xFD, 	0xD4, 	0x66
+
+
+Safeload Write
+Time:  16:09:51 - 521ms
+IC:  IC 1
+Cell Name:  LB Filter L
+Param Name:  EQFilterSPS300Alg4B2_1
+Param Address:  0x001D
+Param Value:  0.992444574832916
+Bytes:  4
+Param Data:
+0x00, 	0xFE, 	0x10, 	0xD9
+
+
+Safeload Write
+Time:  16:09:51 - 521ms
+IC:  IC 1
+Cell Name:  LB Filter L
+Param Name:  EQFilterSPS300Alg4B1_1
+Param Address:  0x001E
+Param Value:  -1.9917676448822
+Bytes:  4
+Param Data:
+0xFE, 	0x02, 	0x1B, 	0x84
+
+
+Safeload Write
+Time:  16:09:51 - 521ms
+IC:  IC 1
+Cell Name:  LB Filter L
+Param Name:  EQFilterSPS300Alg4B0_1
+Param Address:  0x001F
+Param Value:  0.999346971511841
+Bytes:  4
+Param Data:
+0x00, 	0xFF, 	0xD5, 	0x34
+
+
+Safeload Write
+Time:  16:09:51 - 521ms
+IC:  IC 1
+Cell Name:  LB Filter L
+Param Name:  EQFilterSPS300Alg4A2_1
+Param Address:  0x0020
+Param Value:  -0.991796493530273
+Bytes:  4
+Param Data:
+0xFF, 	0x02, 	0x19, 	0xA0
+
+
+Safeload Write
+Time:  16:09:51 - 521ms
+IC:  IC 1
+Cell Name:  LB Filter L
+Param Name:  EQFilterSPS300Alg4A1_1
+Param Address:  0x0021
+Param Value:  1.99176269769669
+Bytes:  4
+Param Data:
+0x01, 	0xFD, 	0xE4, 	0x29
+
+
+Safeload Write
+Time:  16:09:51 - 521ms
+IC:  IC 1
+Cell Name:  LB Filter L
+Param Name:  EQFilterSPS300Alg4B2_1
+Param Address:  0x001D
+Param Value:  0.992444574832916
+Bytes:  4
+Param Data:
+0x00, 	0xFE, 	0x10, 	0xD9
+
+
+Safeload Write
+Time:  16:09:51 - 536ms
+IC:  IC 1
+Cell Name:  LB Filter L
+Param Name:  EQFilterSPS300Alg4B1_1
+Param Address:  0x001E
+Param Value:  -1.9917676448822
+Bytes:  4
+Param Data:
+0xFE, 	0x02, 	0x1B, 	0x84
+
+
+Safeload Write
+Time:  16:09:51 - 536ms
+IC:  IC 1
+Cell Name:  LB Filter L
+Param Name:  EQFilterSPS300Alg4B0_1
+Param Address:  0x001F
+Param Value:  0.999346971511841
+Bytes:  4
+Param Data:
+0x00, 	0xFF, 	0xD5, 	0x34
+
+
+Safeload Write
+Time:  16:09:51 - 536ms
+IC:  IC 1
+Cell Name:  LB Filter L
+Param Name:  EQFilterSPS300Alg4A2_1
+Param Address:  0x0020
+Param Value:  -0.991796493530273
+Bytes:  4
+Param Data:
+0xFF, 	0x02, 	0x19, 	0xA0
+
+
+Safeload Write
+Time:  16:09:51 - 536ms
+IC:  IC 1
+Cell Name:  LB Filter L
+Param Name:  EQFilterSPS300Alg4A1_1
+Param Address:  0x0021
+Param Value:  1.99176269769669
+Bytes:  4
+Param Data:
+0x01, 	0xFD, 	0xE4, 	0x29
+
+
+Safeload Write
+Time:  16:09:52 - 068ms
+IC:  IC 1
+Cell Name:  LB Filter L
+Param Name:  EQFilterSPS300Alg4B2_1
+Param Address:  0x001D
+Param Value:  0.992460131645203
+Bytes:  4
+Param Data:
+0x00, 	0xFE, 	0x11, 	0xDE
+
+
+Safeload Write
+Time:  16:09:52 - 068ms
+IC:  IC 1
+Cell Name:  LB Filter L
+Param Name:  EQFilterSPS300Alg4B1_1
+Param Address:  0x001E
+Param Value:  -1.99199968576431
+Bytes:  4
+Param Data:
+0xFE, 	0x02, 	0x0C, 	0x4F
+
+
+Safeload Write
+Time:  16:09:52 - 068ms
+IC:  IC 1
+Cell Name:  LB Filter L
+Param Name:  EQFilterSPS300Alg4B0_1
+Param Address:  0x001F
+Param Value:  0.99956488609314
+Bytes:  4
+Param Data:
+0x00, 	0xFF, 	0xE3, 	0x7C
+
+
+Safeload Write
+Time:  16:09:52 - 068ms
+IC:  IC 1
+Cell Name:  LB Filter L
+Param Name:  EQFilterSPS300Alg4A2_1
+Param Address:  0x0020
+Param Value:  -0.992028295993805
+Bytes:  4
+Param Data:
+0xFF, 	0x02, 	0x0A, 	0x6F
+
+
+Safeload Write
+Time:  16:09:52 - 068ms
+IC:  IC 1
+Cell Name:  LB Filter L
+Param Name:  EQFilterSPS300Alg4A1_1
+Param Address:  0x0021
+Param Value:  1.99199640750885
+Bytes:  4
+Param Data:
+0x01, 	0xFD, 	0xF3, 	0x7A
+
+
+Safeload Write
+Time:  16:09:52 - 068ms
+IC:  IC 1
+Cell Name:  LB Filter L
+Param Name:  EQFilterSPS300Alg4B2_1
+Param Address:  0x001D
+Param Value:  0.992460131645203
+Bytes:  4
+Param Data:
+0x00, 	0xFE, 	0x11, 	0xDE
+
+
+Safeload Write
+Time:  16:09:52 - 068ms
+IC:  IC 1
+Cell Name:  LB Filter L
+Param Name:  EQFilterSPS300Alg4B1_1
+Param Address:  0x001E
+Param Value:  -1.99199968576431
+Bytes:  4
+Param Data:
+0xFE, 	0x02, 	0x0C, 	0x4F
+
+
+Safeload Write
+Time:  16:09:52 - 068ms
+IC:  IC 1
+Cell Name:  LB Filter L
+Param Name:  EQFilterSPS300Alg4B0_1
+Param Address:  0x001F
+Param Value:  0.99956488609314
+Bytes:  4
+Param Data:
+0x00, 	0xFF, 	0xE3, 	0x7C
+
+
+Safeload Write
+Time:  16:09:52 - 068ms
+IC:  IC 1
+Cell Name:  LB Filter L
+Param Name:  EQFilterSPS300Alg4A2_1
+Param Address:  0x0020
+Param Value:  -0.992028295993805
+Bytes:  4
+Param Data:
+0xFF, 	0x02, 	0x0A, 	0x6F
+
+
+Safeload Write
+Time:  16:09:52 - 068ms
+IC:  IC 1
+Cell Name:  LB Filter L
+Param Name:  EQFilterSPS300Alg4A1_1
+Param Address:  0x0021
+Param Value:  1.99199640750885
+Bytes:  4
+Param Data:
+0x01, 	0xFD, 	0xF3, 	0x7A
+
+
+Safeload Write
+Time:  16:09:52 - 646ms
+IC:  IC 1
+Cell Name:  LB Filter L
+Param Name:  EQFilterSPS300Alg4B2_1
+Param Address:  0x001D
+Param Value:  0.992469429969788
+Bytes:  4
+Param Data:
+0x00, 	0xFE, 	0x12, 	0x7A
+
+
+Safeload Write
+Time:  16:09:52 - 646ms
+IC:  IC 1
+Cell Name:  LB Filter L
+Param Name:  EQFilterSPS300Alg4B1_1
+Param Address:  0x001E
+Param Value:  -1.99222511053085
+Bytes:  4
+Param Data:
+0xFE, 	0x01, 	0xFD, 	0x89
+
+
+Safeload Write
+Time:  16:09:52 - 646ms
+IC:  IC 1
+Cell Name:  LB Filter L
+Param Name:  EQFilterSPS300Alg4B0_1
+Param Address:  0x001F
+Param Value:  0.999782502651215
+Bytes:  4
+Param Data:
+0x00, 	0xFF, 	0xF1, 	0xBF
+
+
+Safeload Write
+Time:  16:09:52 - 646ms
+IC:  IC 1
+Cell Name:  LB Filter L
+Param Name:  EQFilterSPS300Alg4A2_1
+Param Address:  0x0020
+Param Value:  -0.992253601551056
+Bytes:  4
+Param Data:
+0xFF, 	0x01, 	0xFB, 	0xAB
+
+
+Safeload Write
+Time:  16:09:52 - 646ms
+IC:  IC 1
+Cell Name:  LB Filter L
+Param Name:  EQFilterSPS300Alg4A1_1
+Param Address:  0x0021
+Param Value:  1.99222350120544
+Bytes:  4
+Param Data:
+0x01, 	0xFE, 	0x02, 	0x5C
+
+
+Safeload Write
+Time:  16:09:52 - 646ms
+IC:  IC 1
+Cell Name:  LB Filter L
+Param Name:  EQFilterSPS300Alg4B2_1
+Param Address:  0x001D
+Param Value:  0.992469429969788
+Bytes:  4
+Param Data:
+0x00, 	0xFE, 	0x12, 	0x7A
+
+
+Safeload Write
+Time:  16:09:52 - 646ms
+IC:  IC 1
+Cell Name:  LB Filter L
+Param Name:  EQFilterSPS300Alg4B1_1
+Param Address:  0x001E
+Param Value:  -1.99222511053085
+Bytes:  4
+Param Data:
+0xFE, 	0x01, 	0xFD, 	0x89
+
+
+Safeload Write
+Time:  16:09:52 - 661ms
+IC:  IC 1
+Cell Name:  LB Filter L
+Param Name:  EQFilterSPS300Alg4B0_1
+Param Address:  0x001F
+Param Value:  0.999782502651215
+Bytes:  4
+Param Data:
+0x00, 	0xFF, 	0xF1, 	0xBF
+
+
+Safeload Write
+Time:  16:09:52 - 661ms
+IC:  IC 1
+Cell Name:  LB Filter L
+Param Name:  EQFilterSPS300Alg4A2_1
+Param Address:  0x0020
+Param Value:  -0.992253601551056
+Bytes:  4
+Param Data:
+0xFF, 	0x01, 	0xFB, 	0xAB
+
+
+Safeload Write
+Time:  16:09:52 - 661ms
+IC:  IC 1
+Cell Name:  LB Filter L
+Param Name:  EQFilterSPS300Alg4A1_1
+Param Address:  0x0021
+Param Value:  1.99222350120544
+Bytes:  4
+Param Data:
+0x01, 	0xFE, 	0x02, 	0x5C
+
+
+Safeload Write
+Time:  16:09:53 - 396ms
+IC:  IC 1
+Cell Name:  LB Filter L
+Param Name:  EQFilterSPS300Alg4B2_1
+Param Address:  0x001D
+Param Value:  0.992472529411316
+Bytes:  4
+Param Data:
+0x00, 	0xFE, 	0x12, 	0xAE
+
+
+Safeload Write
+Time:  16:09:53 - 396ms
+IC:  IC 1
+Cell Name:  LB Filter L
+Param Name:  EQFilterSPS300Alg4B1_1
+Param Address:  0x001E
+Param Value:  -1.99244409799576
+Bytes:  4
+Param Data:
+0xFE, 	0x01, 	0xEF, 	0x2F
+
+
+Safeload Write
+Time:  16:09:53 - 396ms
+IC:  IC 1
+Cell Name:  LB Filter L
+Param Name:  EQFilterSPS300Alg4B0_1
+Param Address:  0x001F
+Param Value:  1
+Bytes:  4
+Param Data:
+0x01, 	0x00, 	0x00, 	0x00
+
+
+Safeload Write
+Time:  16:09:53 - 396ms
+IC:  IC 1
+Cell Name:  LB Filter L
+Param Name:  EQFilterSPS300Alg4A2_1
+Param Address:  0x0020
+Param Value:  -0.992472529411316
+Bytes:  4
+Param Data:
+0xFF, 	0x01, 	0xED, 	0x52
+
+
+Safeload Write
+Time:  16:09:53 - 396ms
+IC:  IC 1
+Cell Name:  LB Filter L
+Param Name:  EQFilterSPS300Alg4A1_1
+Param Address:  0x0021
+Param Value:  1.99244409799576
+Bytes:  4
+Param Data:
+0x01, 	0xFE, 	0x10, 	0xD1
+
+
+Safeload Write
+Time:  16:09:53 - 412ms
+IC:  IC 1
+Cell Name:  LB Filter L
+Param Name:  EQFilterSPS300Alg4B2_1
+Param Address:  0x001D
+Param Value:  0.992472529411316
+Bytes:  4
+Param Data:
+0x00, 	0xFE, 	0x12, 	0xAE
+
+
+Safeload Write
+Time:  16:09:53 - 412ms
+IC:  IC 1
+Cell Name:  LB Filter L
+Param Name:  EQFilterSPS300Alg4B1_1
+Param Address:  0x001E
+Param Value:  -1.99244409799576
+Bytes:  4
+Param Data:
+0xFE, 	0x01, 	0xEF, 	0x2F
+
+
+Safeload Write
+Time:  16:09:53 - 412ms
+IC:  IC 1
+Cell Name:  LB Filter L
+Param Name:  EQFilterSPS300Alg4B0_1
+Param Address:  0x001F
+Param Value:  1
+Bytes:  4
+Param Data:
+0x01, 	0x00, 	0x00, 	0x00
+
+
+Safeload Write
+Time:  16:09:53 - 412ms
+IC:  IC 1
+Cell Name:  LB Filter L
+Param Name:  EQFilterSPS300Alg4A2_1
+Param Address:  0x0020
+Param Value:  -0.992472529411316
+Bytes:  4
+Param Data:
+0xFF, 	0x01, 	0xED, 	0x52
+
+
+Safeload Write
+Time:  16:09:53 - 412ms
+IC:  IC 1
+Cell Name:  LB Filter L
+Param Name:  EQFilterSPS300Alg4A1_1
+Param Address:  0x0021
+Param Value:  1.99244409799576
+Bytes:  4
+Param Data:
+0x01, 	0xFE, 	0x10, 	0xD1
+
+
+Safeload Write
+Time:  16:09:53 - 974ms
+IC:  IC 1
+Cell Name:  LB Filter L
+Param Name:  EQFilterSPS300Alg4B2_1
+Param Address:  0x001D
+Param Value:  0.992469429969788
+Bytes:  4
+Param Data:
+0x00, 	0xFE, 	0x12, 	0x7A
+
+
+Safeload Write
+Time:  16:09:53 - 974ms
+IC:  IC 1
+Cell Name:  LB Filter L
+Param Name:  EQFilterSPS300Alg4B1_1
+Param Address:  0x001E
+Param Value:  -1.99265682697296
+Bytes:  4
+Param Data:
+0xFE, 	0x01, 	0xE1, 	0x3E
+
+
+Safeload Write
+Time:  16:09:53 - 974ms
+IC:  IC 1
+Cell Name:  LB Filter L
+Param Name:  EQFilterSPS300Alg4B0_1
+Param Address:  0x001F
+Param Value:  1.00021755695343
+Bytes:  4
+Param Data:
+0x01, 	0x00, 	0x0E, 	0x42
+
+
+Safeload Write
+Time:  16:09:53 - 974ms
+IC:  IC 1
+Cell Name:  LB Filter L
+Param Name:  EQFilterSPS300Alg4A2_1
+Param Address:  0x0020
+Param Value:  -0.992685317993164
+Bytes:  4
+Param Data:
+0xFF, 	0x01, 	0xDF, 	0x60
+
+
+Safeload Write
+Time:  16:09:53 - 974ms
+IC:  IC 1
+Cell Name:  LB Filter L
+Param Name:  EQFilterSPS300Alg4A1_1
+Param Address:  0x0021
+Param Value:  1.99265849590302
+Bytes:  4
+Param Data:
+0x01, 	0xFE, 	0x1E, 	0xDE
+
+
+Safeload Write
+Time:  16:09:53 - 974ms
+IC:  IC 1
+Cell Name:  LB Filter L
+Param Name:  EQFilterSPS300Alg4B2_1
+Param Address:  0x001D
+Param Value:  0.992469429969788
+Bytes:  4
+Param Data:
+0x00, 	0xFE, 	0x12, 	0x7A
+
+
+Safeload Write
+Time:  16:09:53 - 974ms
+IC:  IC 1
+Cell Name:  LB Filter L
+Param Name:  EQFilterSPS300Alg4B1_1
+Param Address:  0x001E
+Param Value:  -1.99265682697296
+Bytes:  4
+Param Data:
+0xFE, 	0x01, 	0xE1, 	0x3E
+
+
+Safeload Write
+Time:  16:09:53 - 974ms
+IC:  IC 1
+Cell Name:  LB Filter L
+Param Name:  EQFilterSPS300Alg4B0_1
+Param Address:  0x001F
+Param Value:  1.00021755695343
+Bytes:  4
+Param Data:
+0x01, 	0x00, 	0x0E, 	0x42
+
+
+Safeload Write
+Time:  16:09:53 - 974ms
+IC:  IC 1
+Cell Name:  LB Filter L
+Param Name:  EQFilterSPS300Alg4A2_1
+Param Address:  0x0020
+Param Value:  -0.992685317993164
+Bytes:  4
+Param Data:
+0xFF, 	0x01, 	0xDF, 	0x60
+
+
+Safeload Write
+Time:  16:09:53 - 974ms
+IC:  IC 1
+Cell Name:  LB Filter L
+Param Name:  EQFilterSPS300Alg4A1_1
+Param Address:  0x0021
+Param Value:  1.99265849590302
+Bytes:  4
+Param Data:
+0x01, 	0xFE, 	0x1E, 	0xDE
+
+
+Safeload Write
+Time:  16:09:54 - 459ms
+IC:  IC 1
+Cell Name:  LB Filter L
+Param Name:  EQFilterSPS300Alg4B2_1
+Param Address:  0x001D
+Param Value:  0.992460131645203
+Bytes:  4
+Param Data:
+0x00, 	0xFE, 	0x11, 	0xDE
+
+
+Safeload Write
+Time:  16:09:54 - 459ms
+IC:  IC 1
+Cell Name:  LB Filter L
+Param Name:  EQFilterSPS300Alg4B1_1
+Param Address:  0x001E
+Param Value:  -1.9928634762764
+Bytes:  4
+Param Data:
+0xFE, 	0x01, 	0xD3, 	0xB3
+
+
+Safeload Write
+Time:  16:09:54 - 459ms
+IC:  IC 1
+Cell Name:  LB Filter L
+Param Name:  EQFilterSPS300Alg4B0_1
+Param Address:  0x001F
+Param Value:  1.00043529272079
+Bytes:  4
+Param Data:
+0x01, 	0x00, 	0x1C, 	0x87
+
+
+Safeload Write
+Time:  16:09:54 - 459ms
+IC:  IC 1
+Cell Name:  LB Filter L
+Param Name:  EQFilterSPS300Alg4A2_1
+Param Address:  0x0020
+Param Value:  -0.992892146110535
+Bytes:  4
+Param Data:
+0xFF, 	0x01, 	0xD1, 	0xD2
+
+
+Safeload Write
+Time:  16:09:54 - 459ms
+IC:  IC 1
+Cell Name:  LB Filter L
+Param Name:  EQFilterSPS300Alg4A1_1
+Param Address:  0x0021
+Param Value:  1.99286675453186
+Bytes:  4
+Param Data:
+0x01, 	0xFE, 	0x2C, 	0x84
+
+
+Safeload Write
+Time:  16:09:54 - 459ms
+IC:  IC 1
+Cell Name:  LB Filter L
+Param Name:  EQFilterSPS300Alg4B2_1
+Param Address:  0x001D
+Param Value:  0.992460131645203
+Bytes:  4
+Param Data:
+0x00, 	0xFE, 	0x11, 	0xDE
+
+
+Safeload Write
+Time:  16:09:54 - 459ms
+IC:  IC 1
+Cell Name:  LB Filter L
+Param Name:  EQFilterSPS300Alg4B1_1
+Param Address:  0x001E
+Param Value:  -1.9928634762764
+Bytes:  4
+Param Data:
+0xFE, 	0x01, 	0xD3, 	0xB3
+
+
+Safeload Write
+Time:  16:09:54 - 459ms
+IC:  IC 1
+Cell Name:  LB Filter L
+Param Name:  EQFilterSPS300Alg4B0_1
+Param Address:  0x001F
+Param Value:  1.00043529272079
+Bytes:  4
+Param Data:
+0x01, 	0x00, 	0x1C, 	0x87
+
+
+Safeload Write
+Time:  16:09:54 - 459ms
+IC:  IC 1
+Cell Name:  LB Filter L
+Param Name:  EQFilterSPS300Alg4A2_1
+Param Address:  0x0020
+Param Value:  -0.992892146110535
+Bytes:  4
+Param Data:
+0xFF, 	0x01, 	0xD1, 	0xD2
+
+
+Safeload Write
+Time:  16:09:54 - 459ms
+IC:  IC 1
+Cell Name:  LB Filter L
+Param Name:  EQFilterSPS300Alg4A1_1
+Param Address:  0x0021
+Param Value:  1.99286675453186
+Bytes:  4
+Param Data:
+0x01, 	0xFE, 	0x2C, 	0x84
+
+
+
